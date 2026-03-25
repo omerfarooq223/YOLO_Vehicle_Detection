@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# YOLO / Ultralytics specific
+*.pt
+runs/
+outputs/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*checkpoint.ipynb
+
+# Node.js (if applicable)
+node_modules/
